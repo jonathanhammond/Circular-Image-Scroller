@@ -1,12 +1,13 @@
-Disk Image Scroller
+Continuous Circular Image Scrolling
 =======================
 
-Continuous disk image scrolling example for Quartz Composer and Origami http://origami.facebook.com
+Continuous circular image scrolling example for Quartz Composer and Origami http://origami.facebook.com
 
 My first full day working with Facebooks additions to Quartz Composer for mobile UI/UX development
 
 This composition shows how to use a circular scrolling mechanism with rubber tension, magnet forces and snapping at boundaries.  
 
+Example Videos 
 https://vimeo.com/95983441
 
 Look in the composition for notes on bugs I found with the interaction2/layer patch and masks
