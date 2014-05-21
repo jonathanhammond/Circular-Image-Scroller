@@ -3,11 +3,10 @@ Continuous Circular Image Scrolling
 
 Continuous circular image scrolling example for Quartz Composer and Origami http://origami.facebook.com
 
-My first full day working with Facebooks additions to Quartz Composer for mobile UI/UX development
+Results of a full day working with Origami, this composition shows a circular scrolling mechanism with rubber tension, magnet forces and snapping at boundaries.
+Feedback on how I could have used Origami more extensively welcome.
 
-This composition shows how to use a circular scrolling mechanism with rubber tension, magnet forces and snapping at boundaries.  
-
-Example Videos 
+Example Video 
 https://vimeo.com/95983441
 
 Look in the composition for notes on bugs I found with the interaction2/layer patch and masks
